@@ -3,7 +3,7 @@ Um projeto de teste com um arquivo Readme
 
 Teste com Gif 😉
 
-[<img src="./animacao.gif" alt="gif da tela inicial do projeto xyz">](https://google.com)
+[<img src="./Animacao.gif" alt="gif da tela inicial do projeto xyz">](https://google.com)
 
 ## Tecnologias utilizadas
 
